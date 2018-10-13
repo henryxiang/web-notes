@@ -15,6 +15,7 @@ npm install -D \
 ## Setup Webpack to use HMR
 ```javascript
 // webpack.config.js
+const path = require('path');
 const webpack = require("webpack");
 
 module.exports = {
@@ -22,7 +23,11 @@ module.exports = {
       "webpack-hot-middleware/client?path=/__webpack_hmr&timeout=20000",
       "./src/index.js"
     ],
-
+    output: {
+      path: path.resolve(__dirname, "./public"),
+      filename: "[name].bundle.js",
+      publicPath: "/",
+    },
     plugins: [new webpack.HotModuleReplacementPlugin()]
 };
 ```
