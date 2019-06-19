@@ -36,10 +36,10 @@ module.exports = {
 ```javascript
 // server/index.js
 const express = require(“express”);
-const webpack = require(“webpack”);
-const webpackConfig = require(“./webpack.config”);
-const webpackDevMiddleware = require(“webpack-dev-middleware”);
-const webpackHotMiddleware = require(“webpack-hot-middleware”);
+const webpack = require('webpack');
+const webpackConfig = require('./webpack.config');
+const webpackDevMiddleware = require('webpack-dev-middleware');
+const webpackHotMiddleware = require('webpack-hot-middleware');
 
 const app = express();
 const compiler = webpack(webpackConfig);
@@ -65,6 +65,7 @@ app.use(
   "plugins": ["react-hot-loader/babel"]
 }
 ```
+
 ```javascript
 // App.js - mark the root component as hot-exported
 import React from 'react'
