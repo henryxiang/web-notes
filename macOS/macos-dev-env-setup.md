@@ -94,7 +94,7 @@ To download and install VS Code, use the following commands:
 cd ~/Downloads
 wget -O VSCode-darwin-stable.zip https://go.microsoft.com/fwlink/\?LinkID\=620882
 unzip VSCode-darwin-stable.zip
-cp "Visual Studio Code.app" ~/Applications/
+cp -r "Visual Studio Code.app" ~/Applications/
 ```
 
 ## Setting up Node.js (JavaScript) Development Environment
