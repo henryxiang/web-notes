@@ -105,7 +105,7 @@ cp "Visual Studio Code.app" ~/Applications/
 brew install node
 ```
 
-To verify, `node -v` and `npm -v`.
+To verify, run `node -v` and `npm -v`.
 
 ## Installing Relational Database System (MySQL)
 
@@ -126,6 +126,8 @@ brew tap homebrew/services
 ```
 brew services start mysql
 ```
+
+To verify, run `brew services list`.
 
 4. Install MySQL Workbench (GUI client)
 
@@ -152,6 +154,8 @@ brew tap homebrew/services
 ```
 brew services start mongodb
 ```
+
+To verify, run `brew services list`.
 
 4. Install MongoDB GUI client
 
