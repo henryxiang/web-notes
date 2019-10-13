@@ -10,7 +10,7 @@
 
 - [How to do a literature review using Google Scholar](https://www.youtube.com/watch?v=8ydzerd9FT0)
 - [Finding Literature Reviews through Google Scholar](https://www.youtube.com/watch?v=rqfrji6kLuQ)
-YouTube search: `google scholar literature search` or `google scholar literature review`
+- YouTube search: `google scholar literature search` or `google scholar literature review`
 
 ## Citations
 
