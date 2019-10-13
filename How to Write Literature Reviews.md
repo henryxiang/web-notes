@@ -6,7 +6,7 @@
 - [Five Easy Steps to Goot Literature Review](http://www.peakwriting.com/litreview/Index.html)
 - [How to Write a Literature Review in 30 Minutes](https://www.youtube.com/watch?v=TdJxY4w9XKY)
 - [How to Write a Literature Review (Play List)](https://www.youtube.com/playlist?list=PLb0bHttjNfb_fT3fZ2JPXf_C8qKfsAfN8)
-- [Get Lit: The Literature Review (long but good one)](https://www.youtube.com/watch?v=9la5ytz9MmM)
+- [How to Write a Literature Review (long but good video)](https://www.youtube.com/watch?v=ouY2FH0BKkQ)
 - [Writing the Literature Review](https://www.youtube.com/watch?v=70n2-gAp7J0)
 
 ## Literature Search
