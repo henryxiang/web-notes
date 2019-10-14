@@ -38,3 +38,8 @@ In summary:
 3. Combine paragraphs if necessary
 4. Add topic sentences and transitions to form literature review's body paragraphs
 5. Add introduction and conclusion paragraphs to complete the literature review
+
+## Zotero - Citation Management Software
+
+- [Download and Install](https://www.zotero.org/download/)
+- [Using Zotero](https://www.youtube.com/watch?v=mP5AzJHXfIA)
