@@ -43,3 +43,4 @@ In summary:
 
 - [Download and Install](https://www.zotero.org/download/)
 - [Using Zotero for Academic Writing](https://www.youtube.com/watch?v=kqFiCj1XV-E)
+- [Zotero Tutorial](https://www.youtube.com/watch?v=BQL_7C-YqBk)
