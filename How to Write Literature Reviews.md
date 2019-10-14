@@ -42,4 +42,4 @@ In summary:
 ## Zotero - Citation Management Software
 
 - [Download and Install](https://www.zotero.org/download/)
-- [Using Zotero](https://www.youtube.com/watch?v=mP5AzJHXfIA)
+- [Using Zotero for Academic Writing](https://www.youtube.com/watch?v=kqFiCj1XV-E)
